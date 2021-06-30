@@ -1,5 +1,7 @@
 # JavaScript Iteration Practice
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/js-array-map-iteration-practice-lab)](https://repl.it/github/upperlinecode/js-array-map-iteration-practice-lab)
+
 This lab includes an opportunity to iterate with `for` loops. All the tasks in Part A will require a `for` loop.
 
 JavaScript also includes some built-in methods for array iteration, and some of the most useful are:
